@@ -1,3 +1,3 @@
 nombre + imput(Ëscribe tu nombre: ")
-print (f"Hello {nombre}")
+print (f"hola {nombre}")
 
